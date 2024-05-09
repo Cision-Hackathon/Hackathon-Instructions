@@ -2,8 +2,8 @@
 Here you'll find all the information needed to improvise, adapt and overcome.
 
 ## :calendar: Dates
-- **Kick-Off**: May 8-9, 2023 (In your time zone)
-- **Pitching/judging**: May 10th, 2023
+- **Kick-Off**: May 13-14, 2024 (In your time zone)
+- **Pitching/judging**: May 15th, 2024
 
 ## 📜 Rules of Engagement ##
 1. You are free to do product ideation, user persona investigation/use cases, backlog creation, mockups of screens and diagrams of systems before the hackathon begins. These are great things to do with your team so everyone has a clear idea of what the hack will be about.
