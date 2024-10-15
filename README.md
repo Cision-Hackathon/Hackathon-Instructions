@@ -1,10 +1,13 @@
 # Hackathon Q4 2024: Effortless Edge! 💥
 Here you'll find all the information needed to improvise, adapt and overcome.
 
+## Overview
+Effortless Edge is a hackathon centered on driving maximum results with minimal resources, emphasizing efficiency and rapid innovation. It's about creating impactful, streamlined solutions that empower our internal teams while sharpening our competitive advantage in the marketplace.
+
 ## :calendar: Dates
 - **Kick-Off **: October 28th 2024 at [10am ET Join Zoom Meeting](https://cision.zoom.com/j/96306791836?pwd=5Sbsanoby0B1QUwjyknHcc2zX1D2aB.1&from=addon)
 - **Hacking **: Nov 4-6, 2024 (In your time zone)
-- **Pitching/judging**: Nov 6th, 2024
+- **Pitching/judging**: Nov 6th, 2024 [8:30 AM ET Join Zoom Meeting](https://cision.zoom.com/j/96572695037?pwd=jw48r4P4Tt5KpHfZgaj2F4SWCbaa83.1&from=addon)
 
 ## Judges ##
 * **Jeff Hicks​**   CPTO, PR Newswire​
