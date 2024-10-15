@@ -7,11 +7,11 @@ Here you'll find all the information needed to improvise, adapt and overcome.
 - **Pitching/judging**: Nov 6th, 2024
 
 ## Judges ##
-Jeff Hicks​   CPTO, PR Newswire​
-Matt Tippets​  CPTO, Brandwatch
-Amy Gorham​ VP, Customer Experience, Comms Cloud​
-Erica Morrison​ VP, Engineering, Brandwatch
-Karthik Vaidy​ Senior Director, Engineering, Comms Cloud​​
+* **Jeff Hicks​**   CPTO, PR Newswire​
+* **Matt Tippets​**  CPTO, Brandwatch
+* **Amy Gorham​ VP**, Customer Experience, Comms Cloud​
+* **Erica Morrison​ VP**, Engineering, Brandwatch
+* **Karthik Vaidy​ Senior Director**, Engineering, Comms Cloud​​
 
 ## Judging Categories ##
 * Best Effortless Edge : The best representation of the Hack theme, Effortless Edge
