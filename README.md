@@ -2,8 +2,23 @@
 Here you'll find all the information needed to improvise, adapt and overcome.
 
 ## :calendar: Dates
-- **Kick-Off**: Nov 4-6, 2024 (In your time zone)
+- **Kick-Off **: October 28th 2024 at (10am ET Join Zoom Meeting)[https://cision.zoom.com/j/96306791836?pwd=5Sbsanoby0B1QUwjyknHcc2zX1D2aB.1&from=addon]
+- **Hacking **: Nov 4-6, 2024 (In your time zone)
 - **Pitching/judging**: Nov 6th, 2024
+
+## Judges ##
+Jeff Hicks​   CPTO, PR Newswire​
+Matt Tippets​  CPTO, Brandwatch
+Amy Gorham​ VP, Customer Experience, Comms Cloud​
+Erica Morrison​ VP, Engineering, Brandwatch
+Karthik Vaidy​ Senior Director, Engineering, Comms Cloud​​
+
+## Judging Categories ##
+* Best Effortless Edge : The best representation of the Hack theme, Effortless Edge
+* Demo Domination :  Most awesome pitch
+* Make an Impact :   Biggest impact (people that it benefits/benefit of the solution)
+* Best Customer Facing Feature  :  our customers will love this!
+* Crowd Favorite :  Team with the most votes from the audience
 
 ## 📜 Rules of Engagement ##
 1. You are free to do product ideation, user persona investigation/use cases, backlog creation, mockups of screens and diagrams of systems before the hackathon begins. These are great things to do with your team so everyone has a clear idea of what the hack will be about.
