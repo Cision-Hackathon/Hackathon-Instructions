@@ -11,7 +11,7 @@ Here you'll find all the information needed to improvise, adapt and overcome.
 3. No writing of code before the hackathon. You can think, but no doing before the Monday bell rings and you come out fighting.
 
 ## :clipboard: How to Participate
-1. **Team Up**: Form a team or go it on your own.
+1. **Team Up**: Form a team or go it on your own. (Create your teams in the signup link in #2)
 2. **Sign up**: Sign up [here](https://forms.office.com/r/bejtfTpSwG)
 3. **Pregame**: See below - do that **_BEFORE_** the hackathon 
 4. **Hack**: Build something awesome.
