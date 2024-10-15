@@ -1,9 +1,9 @@
-# Hackathon Q2 2024: Tech Trek! 💥
+# Hackathon Q4 2024: Effortless Edge! 💥
 Here you'll find all the information needed to improvise, adapt and overcome.
 
 ## :calendar: Dates
-- **Kick-Off**: May 13-14, 2024 (In your time zone)
-- **Pitching/judging**: May 15th, 2024
+- **Kick-Off**: Nov 4-6, 2024 (In your time zone)
+- **Pitching/judging**: Nov 6th, 2024
 
 ## 📜 Rules of Engagement ##
 1. You are free to do product ideation, user persona investigation/use cases, backlog creation, mockups of screens and diagrams of systems before the hackathon begins. These are great things to do with your team so everyone has a clear idea of what the hack will be about.
@@ -12,7 +12,7 @@ Here you'll find all the information needed to improvise, adapt and overcome.
 
 ## :clipboard: How to Participate
 1. **Team Up**: Form a team or go it on your own.
-2. **Sign up**: Sign up [here]([https://docs.google.com/spreadsheets/d/1jogVi6ouDhbn8PJEP9THk4Zr82ojKP5wpl3ZIArgHxA/edit#gid=1721569249](https://docs.google.com/spreadsheets/d/1Awz3JqXRq53XJBHhyFCuKBEcK-4yODZqjcIXlleFJWw/edit#gid=1721569249))
+2. **Sign up**: Sign up [here](https://forms.office.com/r/bejtfTpSwG)
 3. **Pregame**: See below - do that **_BEFORE_** the hackathon 
 4. **Hack**: Build something awesome.
 5. **Present**: Show and tell on pitch day.
@@ -28,8 +28,8 @@ Here you'll find all the information needed to improvise, adapt and overcome.
 ## DevOps related FAQs ##
 ### I need to create some infrastructure for my project. How do I do that? 
 For each of these types of changes follow this procedure to help DevOps help you:
-1. Create a PR with your changes in the repos described below and let the devops team know in the [Devops Slack channel](https://cision.slack.com/archives/CF3UBTFH8).
-2. Ping the DevOps team with the @devops_team tag in that slack channel. Provide them a link to your PR and explain what it is for.  
+1. Create a PR with your changes in the repos described below and let the devops team know in the DevOps channel for your BU.
+2. Provide them a link to your PR and explain what it is for.  
 
 #### **Create your actual infrastructure**: ####
 You can create infrastructure in GCP using the Terraform for Teams repository [here](https://github.com/Cision-DevOps/terraform-for-teams/tree/main/teams/gcp/dev). Create a folder with the name of your project in the dev folder. In there you can see examples of creating various types of infrastructure like PostGres databases, Redis, GCP storage etc... Search around and find things you need and add it to your folder. Use the [sandbox-cision-001](https://console.cloud.google.com/home/dashboard?authuser=0&project=sandbox-cision-001) project in those variables. Remember we are all sharing a single GCP project, so please be nice and don't delete anyone elses databases or other infrastructure.
