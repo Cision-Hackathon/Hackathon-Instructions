@@ -2,7 +2,7 @@
 Here you'll find all the information needed to improvise, adapt and overcome.
 
 ## :calendar: Dates
-- **Kick-Off **: October 28th 2024 at (10am ET Join Zoom Meeting)[https://cision.zoom.com/j/96306791836?pwd=5Sbsanoby0B1QUwjyknHcc2zX1D2aB.1&from=addon]
+- **Kick-Off **: October 28th 2024 at [10am ET Join Zoom Meeting](https://cision.zoom.com/j/96306791836?pwd=5Sbsanoby0B1QUwjyknHcc2zX1D2aB.1&from=addon)
 - **Hacking **: Nov 4-6, 2024 (In your time zone)
 - **Pitching/judging**: Nov 6th, 2024
 
