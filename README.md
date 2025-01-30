@@ -1,19 +1,18 @@
-# Hackathon Q4 2024: Effortless Edge! 💥
+# Hackathon Q1 2025: Effortless Edge! 💥
 Here you'll find all the information needed to improvise, adapt and overcome.
 
 ## Overview
 Effortless Edge is a hackathon centered on driving maximum results with minimal resources, emphasizing efficiency and rapid innovation. It's about creating impactful, streamlined solutions that empower our internal teams while sharpening our competitive advantage in the marketplace.
 
 ## :calendar: Dates
-- **Kick-Off **: October 28th 2024 at [10am ET Join Zoom Meeting](https://cision.zoom.com/j/96306791836?pwd=5Sbsanoby0B1QUwjyknHcc2zX1D2aB.1&from=addon)
-- **Hacking **: Nov 4-6, 2024 (In your time zone)
-- **Pitching/judging**: Nov 6th, 2024 [8:30 AM ET Join Zoom Meeting](https://cision.zoom.com/j/96572695037?pwd=jw48r4P4Tt5KpHfZgaj2F4SWCbaa83.1&from=addon)
+- **Hacking **: Feb 3-4, 2025 (In your time zone)
+- **Pitching/judging**: Feb 5th, 2025 [8:30 AM ET Join Zoom Meeting](https://cision.zoom.com/j/95552444451?pwd=D0lju6U96hb9sHZxZHbNNu6fDobmox.1&from=addon)
 
 ## Judges ##
 * **Jeff Hicks​**   CPTO, PR Newswire​
 * **Matt Tippets​**  CPTO, Brandwatch
 * **Amy Gorham​ VP**, Customer Experience, Comms Cloud​
-* **Erica Morrison​ VP**, Engineering, Brandwatch
+* **Pablo Funes Senior Director**, Engineering, Brandwatch
 * **Karthik Vaidy​ Senior Director**, Engineering, Comms Cloud​​
 
 ## Judging Categories ##
@@ -50,7 +49,7 @@ For each of these types of changes follow this procedure to help DevOps help you
 2. Provide them a link to your PR and explain what it is for.  
 
 #### **Create your actual infrastructure**: ####
-You can create infrastructure in GCP using the Terraform for Teams repository [here](https://github.com/Cision-DevOps/terraform-for-teams/tree/main/teams/gcp/dev). Create a folder with the name of your project in the dev folder. In there you can see examples of creating various types of infrastructure like PostGres databases, Redis, GCP storage etc... Search around and find things you need and add it to your folder. Use the [sandbox-cision-001](https://console.cloud.google.com/home/dashboard?authuser=0&project=sandbox-cision-001) project in those variables. Remember we are all sharing a single GCP project, so please be nice and don't delete anyone elses databases or other infrastructure.
+You can create infrastructure in GCP using the Terraform for Teams repository [here](https://github.com/Cision-DevOps/terraform-for-teams/tree/main/teams/gcp/dev). Create a folder with the name of your project in the dev folder. In there you can see examples of creating various types of infrastructure like PostGres databases, Redis, GCP storage etc... Search around and find things you need and add it to your folder. Use the cision-shared-hackathon (link coming soon) GCP project in those variables. Remember we are all sharing a single GCP project, so please be nice and don't delete anyone elses databases or other infrastructure.
 * Create a namespace in GKE for your hackathon project that starts with "hack-" so they are easy to find
 * Your SA needs to be associated with your namespace
 
